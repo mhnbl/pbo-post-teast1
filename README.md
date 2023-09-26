@@ -1,5 +1,11 @@
 # Post Test 1 - PBO
 
+**Nama** :  Muhammad Nabil
+
+**NIM** :  2209116056
+
+**Kelas** :  A2
+
 ## Kelas Film
 Kelas Film ini bertanggung jawab untuk merepresentasikan informasi tentang film dengan menyimpan judul dan sutradara dalam atributnya, dan konstruktornya digunakan untuk menginisialisasi objek Film dengan nilai-nilai tersebut saat objeknya dibuat. Kelas ini adalah bagian penting dari program, karena digunakan dalam membuat objek-objek Film yang kemudian ditambahkan ke dalam ArrayList dan ditampilkan dalam program utama.
 
