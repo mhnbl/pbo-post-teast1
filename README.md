@@ -9,6 +9,8 @@
 ## Kelas Film
 Kelas Film ini bertanggung jawab untuk merepresentasikan informasi tentang film dengan menyimpan judul dan sutradara dalam atributnya, dan konstruktornya digunakan untuk menginisialisasi objek Film dengan nilai-nilai tersebut saat objeknya dibuat. Kelas ini adalah bagian penting dari program, karena digunakan dalam membuat objek-objek Film yang kemudian ditambahkan ke dalam ArrayList dan ditampilkan dalam program utama.
 
+![Screenshot 2023-09-27 101817](https://github.com/mhnbl/pbo-post-test1/assets/125839542/c009678c-ff33-44b6-8545-8d8bd2e0560d)
+
 Berikut adalah penjelasan tentang progam kelas Film:
 
 - ### Property
@@ -28,6 +30,8 @@ Berikut adalah penjelasan tentang progam kelas Film:
 
 ## File Utama
 Seluruh program ini digunakan untuk membuat, mengisi, dan menampilkan informasi tentang beberapa objek Film menggunakan kelas Film dan ArrayList.
+
+![Screenshot 2023-09-27 101957](https://github.com/mhnbl/pbo-post-test1/assets/125839542/d62854f8-01bd-4f49-9d77-dbd24802ccd9)
 
 Berikut adalah penjelasan tentang program utama:
 
